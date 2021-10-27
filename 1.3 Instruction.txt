@@ -1,0 +1,16 @@
+The public NIR testing data were from the appendix of the published articles [1,2].
+[1] R. Zhang, Y.Y. Chen, Z.B. Wang, K.W. Li, A novel ensemble L1 regularization based variable selection framework with an application in near infrared spectroscopy, Chemometr Intell Lab 163 (2017) 7-15.
+[2] J.H. Kalivas, Two data sets of near infrared spectra, Chemometr Intell Lab 37(2) (1997) 255-259.
+
+
+¢Ù This data set consists of 80 samples of corn measured on 3 different NIR spectrometers, we anlysis one NIR spectrometer: m5spec. The wavelength range is 1100-2498nm at 2 nm intervals (700 channels). 
+The moisture, oil, protein and starch values for each of the samples is also included. A number of NBS glass standards were also measured on each instrument. 
+The data was originally taken at Cargill. Many thanks for Mike Blackburn for letting us distribute it.     
+
+
+¢Ú NIR spectra and octane numbers of 60 gasoline samples        
+NIR: NIR spectra, measured in 2 nm intervals from 900 nm to 1700 nm 
+octane: octane numbers                                                 
+spectra: a dataset array containing variables for NIR and octane        
+                                                                        
+
